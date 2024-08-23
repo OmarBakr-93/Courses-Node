@@ -1,0 +1,9 @@
+firstName
+lastName
+email
+age
+gender
+country
+phoneNamber
+createdAt
+updatedAt
